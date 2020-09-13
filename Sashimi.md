@@ -4,7 +4,7 @@
 Website: https://sashimi.cool/  
 Twitter: https://twitter.com/SASHIMISASHIMI5
 
-## Contract
+## Contracts
 
 ### Token contract
 Token contract name: `SashimiToken`  

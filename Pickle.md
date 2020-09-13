@@ -4,7 +4,7 @@
 Website: https://pickle.finance/  
 Twitter: https://twitter.com/picklefinance
 
-## Contract
+## Contracts
 
 ### Token contract
 Token contract name: `PickleToken`  

@@ -1,10 +1,10 @@
 # Crop ID: Sake 
 
 ## Social media
-Website: https://sashimi.cool/  
-Twitter: https://twitter.com/SASHIMISASHIMI5
+Website: https://sakeswap.finance/#/ 
+Twitter: https://twitter.com/sakeswap 
 
-## Contract
+## Contracts
 
 ### Token contract
 Token contract name: `SakeToken`  
