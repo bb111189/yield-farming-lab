@@ -8,7 +8,7 @@ This lab is for analysizing crops with the goal of distinguishing [weeds](https:
 
 | Name                | Author   | Link                                                                                               |
 | ------------------- | -------- | -------------------------------------------------------------------------------------------------- | 
-| Timelocked contract | Compound | https://raw.githubusercontent.com/compound-finance/compound-protocol/master/contracts/Timelock.sol |
+| Timelock contract   | Compound | https://raw.githubusercontent.com/compound-finance/compound-protocol/master/contracts/Timelock.sol |
 | MasterChef          | Sushi    | https://etherscan.io/address/0xc2edad668740f1aa35e4d8f227fb8e17dca888cd#code                       |
 
 # Review
