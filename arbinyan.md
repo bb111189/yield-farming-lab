@@ -15,9 +15,9 @@ Contract owner: [0x0000000000000000000000000000000000000000](https://etherscan.i
 Contract ownership once renounced cannot be unreounced
 
 
-__staked token and nyan reward__
-`stakeFor` and `withdraw` calculate staked token correctly
--`exit` correct exit the pool 
+__staked token and nyan reward__  
+`stakeFor` and `withdraw` calculate staked token correctly  
+`exit` correct exit the pool 
 
 ## Conclusion
 - No red flag
