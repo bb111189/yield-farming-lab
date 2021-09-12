@@ -1,4 +1,4 @@
-# Crop ID: Sashimi 
+# Crop ID: arbinyan 
 
 ## Social media
 Website: https://arbinyan.com/ 
@@ -9,10 +9,6 @@ Twitter: https://twitter.com/arbinyan
 ### Token contract
 Token contract name: `NyanRewards`  
 Token contract: [0x9F7968de728aC7A6769141F63dCA03FD8b03A76F ](https://arbiscan.io/address/0x9F7968de728aC7A6769141F63dCA03FD8b03A76F#code) 
-
-Conclusion of `SashimiToken`: 
-- No significant change from the original `SushiToken` contract
-- A near identical fork of `SushiToken`
 
 __Owner__  
 Contract owner: [0x0000000000000000000000000000000000000000](https://etherscan.io/address/0x1daed74ed1dd7c9dabbe51361ac90a69d851234d#code)  
