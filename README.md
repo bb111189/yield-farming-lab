@@ -16,6 +16,7 @@ This lab is for analysizing crops with the goal of distinguishing [weeds](https:
 - [Sake](Sake.md)
 - [Sashimi](Sashimi.md)
 - [Pickle](Pickle.md)
+- [Arbinyan](nyan.md)
 
 # TBD
 
